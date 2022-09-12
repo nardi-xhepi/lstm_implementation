@@ -14,21 +14,27 @@ On utilise ici l'algorithme de la descente du gradient afin de parvenir à une s
 
 ### Théorème 1
 <p align="center">
-  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/def_lstm.jpg"></img>
+  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/th1.jpg"></img>
 </p>
 
 ### Théorème 2
 <p align="center">
-  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/def_lstm.jpg"></img>
+  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/th2.jpg"></img>
 </p>
 
 ### Théorème 3
 <p align="center">
-  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/def_lstm.jpg"></img>
+  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/th3.jpg"></img>
 </p>
 
 ### Théorème 4
 <p align="center">
-  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/def_lstm.jpg"></img>
+  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/th4.jpg"></img>
 </p>
+
+### Théorème 5
+<p align="center">
+  <img src="https://github.com/nardi-xhepi/lstm_implementation/blob/main/images/th5.jpg"></img>
+</p>
+
 
