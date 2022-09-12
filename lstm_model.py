@@ -1,3 +1,9 @@
+"""
+Created on Tuesday 20 Février, 2022
+@author: N.X.
+"""
+
+
 import numpy as np
 
 class Linear:
