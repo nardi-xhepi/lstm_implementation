@@ -271,3 +271,16 @@ class LSTM_Model:
             self.lstm.backward_propagation(err, eta)
 
         print(s/n)
+        
+
+"""
+Utilisation de classe LSTM_Model
+"""
+network = LSTM_Model()
+
+def train(network, data_x, data_y, alpha = 0.001):
+
+    for _ in range(10000):
+        network.train(data_x, data_y, alpha)
+
+
